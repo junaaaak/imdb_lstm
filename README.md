@@ -12,13 +12,6 @@ The workflow covers:
 - Evaluation using confusion matrices and classification reports  
 - Performance visualization with accuracy plots  
 - Model saving for future use
-
-## 📂 Project Structure
-├── models/ # Saved trained models (.h5)
-├── imdb_sentiment_analysis.ipynb # Main notebook (EDA, preprocessing, training, evaluation)
-├── LICENSE
-├── .gitattributes
-
 ---
 
 ## 📊 Dataset Overview
